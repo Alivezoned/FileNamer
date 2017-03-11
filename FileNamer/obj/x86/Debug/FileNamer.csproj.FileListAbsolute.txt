@@ -1,0 +1,8 @@
+C:\Users\DJAD\documents\visual studio 2010\Projects\FileNamer\FileNamer\bin\Debug\FileNamer.exe
+C:\Users\DJAD\documents\visual studio 2010\Projects\FileNamer\FileNamer\bin\Debug\FileNamer.pdb
+C:\Users\DJAD\documents\visual studio 2010\Projects\FileNamer\FileNamer\obj\x86\Debug\FileNamer.MainForm.resources
+C:\Users\DJAD\documents\visual studio 2010\Projects\FileNamer\FileNamer\obj\x86\Debug\FileNamer.Properties.Resources.resources
+C:\Users\DJAD\documents\visual studio 2010\Projects\FileNamer\FileNamer\obj\x86\Debug\FileNamer.csproj.GenerateResource.Cache
+C:\Users\DJAD\documents\visual studio 2010\Projects\FileNamer\FileNamer\obj\x86\Debug\FileNamer.exe
+C:\Users\DJAD\documents\visual studio 2010\Projects\FileNamer\FileNamer\obj\x86\Debug\FileNamer.pdb
+C:\Users\DJAD\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\obj\x86\Debug\FileNamer.csprojResolveAssemblyReference.cache
